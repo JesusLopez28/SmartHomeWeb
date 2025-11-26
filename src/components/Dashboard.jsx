@@ -7,7 +7,8 @@ import {
   FaExclamationTriangle, 
   FaLightbulb, 
   FaWalking,
-  FaClock
+  FaClock,
+  FaChartLine
 } from 'react-icons/fa';
 
 function Dashboard() {
